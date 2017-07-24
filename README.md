@@ -19,7 +19,7 @@ blabla
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/YuJunhuan/yujunhuan.github.io/blob/master/AAEAAQAAAAAAAAuwAAAAJGQxZWI2OWU3LWU1MGItNGFkYS1iN2Q1LTI2MmNhNzUzNGI0NQ.jpg)
+[Link](url) and ![Image](https://github.com/YuJunhuan/yujunhuan.github.io/blob/master/AAEAAQAAAAAAAAuwAAAAJGQxZWI2OWU3LWU1MGItNGFkYS1iN2Q1LTI2MmNhNzUzNGI0NQ.jpg?raw=true)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
